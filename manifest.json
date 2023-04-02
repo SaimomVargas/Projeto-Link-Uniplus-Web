@@ -1,0 +1,12 @@
+{
+"manifest_version": 2,
+"version": "0.0.1",
+"name": "Link Uniplus Web",
+"description": "gerador de links para acessar cliente uniplus web",
+"author": "Saimom Vargas",
+"browser_action": {
+    "default_title": "Uniplus Web",
+    "default_popup": "index.html"
+}
+
+}
